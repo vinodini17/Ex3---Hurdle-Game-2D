@@ -85,8 +85,8 @@ public class Score : MonoBehaviour
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/6f96994f-e2c4-41b9-832e-ccc5891c368e)
-![image](https://github.com/user-attachments/assets/ecf74f15-1e34-4056-86d7-5dd65108afe8)
+![image](https://github.com/user-attachments/assets/17109be2-ca10-486c-8eb3-1604225a9f6a)
+![image](https://github.com/user-attachments/assets/f95418d2-bf9f-49f2-b021-e17fe5fe4e53)
 
 ## RESULT:
 Thus a 2D game using the C# program in Unity is developed successfully.
